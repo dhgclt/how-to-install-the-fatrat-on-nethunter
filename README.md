@@ -6,7 +6,7 @@ If you want to know how to give Kali Netrunner access to your storage, you can g
 
 And for you to install THEFATRAT you're going to have to make XTerm work as root which you're going to find the fix for that in this repo https://github.com/dhgclt/xterm-fix-for-kali-nethunter By the way after you make sure XTERM works as root close the window so the fat rat has the ability to open it
 
-Now while running the installation script you might encounter an error related to apt-update or apt-upgrade which is fixed in this repo https://github.com/dhgclt/Common-Error-fix-apt-get-update-apt-get-upgrade
+Now while running the installation script you might encounter an error related to apt-get update or apt-get upgrade which is fixed in this repo https://github.com/dhgclt/Common-Error-fix-apt-get-update-apt-get-upgrade
 
 And also you may encounter errors related to installing Backdoor Factory The fix in this repo https://github.com/dhgclt/Common-Error-Fix-Installing-Backdoor-Factory
 
